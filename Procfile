@@ -1,1 +1,1 @@
-streamlit run extra-challenge.py
+web: sh setup.sh && streamlit run extra-challenge.py
